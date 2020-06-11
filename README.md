@@ -8,12 +8,15 @@ Support Gmail
 Support Yahoo
 Support Hotmail/Outlook
 Usage
-EmBomber should work on all Linux distros running Python 2.7 First, clone it by entering the following command in the terminal
 
-git clone https://github.com/Kratos02/Email-Bomber.git
+Email-Bomber should work on all Linux distros running Python 2.7 First, clone it by entering the following command in the terminal
+
+`git clone https://github.com/Kratos02/Email-Bomber.git`
+
 Now navigate to EmBomber directory
 
-cd EmBomber
+`cd Email-Bomber`
+
 Now you can run EmBomber
 
-python EmBomber.py
+`python Email-Bomber.py`
