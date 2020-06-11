@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import smtplib
 import time
+import os
 import getpass
 import sys
 
