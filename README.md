@@ -1,15 +1,18 @@
 # Email-Bomber
-Python Script for Email Bombing which supports Gmail, Yahoo, Hotmail/Outlook 
-
+Python Script for Email Bombing which supports Gmail, Yahoo, Hotmail/Outlook
+From this tool you can bomb emails to the victim.
+This tool is  code in python.
 
 
 Features
-Support Gmail
-Support Yahoo
-Support Hotmail/Outlook
-Usage
+This tool can spam 
+Gmail
+Yahoo
+Hotmail/Outlook
 
-Email-Bomber should work on all Linux distros running Python 2.7 First, clone it by entering the following command in the terminal
+Usage
+This email bomber will work on all linux  distros running Python 2.7 First, clone it by entering the following command in the terminal
+
 
 `git clone https://github.com/Kratos02/Email-Bomber.git`
 
